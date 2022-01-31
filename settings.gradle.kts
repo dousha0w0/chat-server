@@ -1,0 +1,1 @@
+rootProject.name = "io.github.smartdousha.chat-server"
